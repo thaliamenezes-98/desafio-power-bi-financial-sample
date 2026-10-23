@@ -4,7 +4,7 @@ Projeto do primeiro desafio do curso de Power BI da DIO. A proposta é replicar 
 
 ## Visualização
 
-![Página 3 do relatório](print_pagina3.png)
+![Página 3 do relatório](print_pagina3.png.png)
 
 ## Visuais da página 3
 
