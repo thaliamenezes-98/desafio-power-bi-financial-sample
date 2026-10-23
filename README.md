@@ -45,4 +45,4 @@ Projeto do primeiro desafio do curso de Power BI da DIO. A proposta é replicar 
 
 ## Autora
 
-Thalia Menezes · [GitHub](https://github.com/thaliamenezes-98) · [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL)
+Thalia Menezes · [GitHub](https://github.com/thaliamenezes-98) · [LinkedIn]([https://www.linkedin.com/in/SEU-PERFIL](https://www.linkedin.com/in/thalia-menezes/))
